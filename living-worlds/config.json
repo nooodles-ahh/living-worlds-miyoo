@@ -1,0 +1,7 @@
+{
+"label":"SDL Living worlds",
+"icon":"icon_2048.png",
+"iconsel":"icon_2048_sel.png",
+"launch":"launch.sh",
+"description":"SDL living worlds demo"
+}

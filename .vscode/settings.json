@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.json.liquid": "json",
+        "*.yaml.liquid": "yaml",
+        "*.md.liquid": "markdown",
+        "*.js.liquid": "liquid-javascript",
+        "*.css.liquid": "liquid-css",
+        "*.scss.liquid": "liquid-scss",
+        "sdl.h": "c",
+        "json.h": "c",
+        "string_view": "c",
+        "loader.h": "c",
+        "scenes.h": "c",
+        "sdl_image.h": "c",
+        "list": "c",
+        "palette.h": "c"
+    }
+}
